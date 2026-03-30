@@ -4,7 +4,11 @@ EVCA is an analysis app that turns fragmented business friction into a structure
 
  Structure complex operational problems into inspectable artifacts that clarify where value is created, where it breaks down, and what needs to happen next.
  
- Connect any business reality to systems, ownership, metrics, and action.
+ Connect any # business reality # to 
+ ## systems
+ ## ownership
+ ## metrics
+ ## action
 
 ## What EVCA does
 
