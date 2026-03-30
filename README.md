@@ -34,6 +34,12 @@ EVCA produces:
 - transformation roadmaps
 - final strategic reports
 
+## Example Use Case
+
+A retailer is dealing with ghost inventory, siloed customer data, fragmented store hardware, and manual special-order workflows.
+
+EVCA converts those issues into a structured value-chain diagnosis, a prioritized roadmap of interventions, and a final operating-model assessment that connects friction to systems, ownership, metrics, and action.
+
 ## Run Locally
 
 Prerequisites: Node.js
