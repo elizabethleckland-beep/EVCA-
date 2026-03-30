@@ -1,6 +1,6 @@
 # EVCA (Enterprise Value Chain Architect)
 
-EVCA is an analysis app that turns fragmented business friction into a structured value-chain diagnosis, prioritized transformation roadmap, and executive-ready strategic report. One line stronger, if you want a more premium second sentence:
+EVCA is an analysis app that turns fragmented business friction into a structured value-chain diagnosis, prioritized transformation roadmap, and executive-ready strategic report.
  It structures complex operational problems into inspectable artifacts that clarify where value is created, where it breaks down, and what needs to happen next.
  Connect any business reality to systems, ownership, metrics, and action.
 
